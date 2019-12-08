@@ -13,3 +13,4 @@ gen
 .idea/misc.xml
 .idea/modules.xml
 .idea/starter.iml
+node_modules
